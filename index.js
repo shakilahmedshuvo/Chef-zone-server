@@ -36,7 +36,7 @@ async function run() {
             res.send(result);
         });
 
-        // college get by id api
+        // get api for chef data by id
         app.get('/chefCollection/:id', async (req, res) => {
             const id = req.params.id;
             const query = { _id: new ObjectId(id) };
