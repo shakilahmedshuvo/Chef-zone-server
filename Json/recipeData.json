@@ -1,0 +1,314 @@
+[
+    {
+        "id": 1,
+        "chefImg": "https://img.freepik.com/free-vector/chef-chalkboard-holding-apple_23-2147633864.jpg?w=740&t=st=1683187800~exp=1683188400~hmac=279e5a749b6367eb16e6d2a0270f0b6179c0da2e383f72388ca5d0340ebaf274",
+        "name": "Shakil Ahmed",
+        "experience": "10+ Years",
+        "recipe": {
+            "first": {
+                "name": "Biryani",
+                "img": "https://img.freepik.com/free-psd/delicious-asian-food-social-media-template_505751-2963.jpg?w=740&t=st=1683186315~exp=1683186915~hmac=760fdb2c233fdbe11d314ccaaad7a13cbbb9cc9d4b7c10923011b4af56945b19",
+                "method": "Simply put, biryani is a spiced mix of meat and rice, traditionally cooked over an open fire in a leather pot. It is combined in different ways with a variety of components to create a number of highly tasty and unique flavor combinations.",
+                "ratings": "5",
+                "ingredients": {
+                    "one": "Meat",
+                    "two": "Rice",
+                    "three": "Onion",
+                    "four": "Chili Pepper",
+                    "five": "Yogurt",
+                    "six": "Salt"
+                }
+            },
+            "second": {
+                "name": "Fried Rice",
+                "img": "https://img.freepik.com/premium-psd/food-promotion-social-media-post-instagram-template_572799-758.jpg?w=826",
+                "method": "Season the eggs. Whisk them with a bit of sesame oil, amino and salt.Cook the veggies! Stir-fry the carrots.Cook the eggs Heat a little vegetable oil and sesame oil, then fry the rice by spreading it in a solid",
+                "ratings": "5",
+                "ingredients": {
+                    "one": "Steamed Rice",
+                    "two": "Egg",
+                    "three": "Onion",
+                    "four": "Vegetable",
+                    "five": "Chili Pepper",
+                    "six": "Butter"
+                }
+            },
+            "third": {
+                "name": "Chicken Curry",
+                "img": "https://img.freepik.com/free-psd/square-post-template-japanese-restaurant_23-2148203266.jpg?w=826&t=st=1698739586~exp=1698740186~hmac=9a94435af04ea0a158b67d4391520d1437fd83ab756b32f1dec04965c49f115f",
+                "method": "Marinate the chicken.Grind the two pastes separately.Toast the whole spices, and then add the ground pastes.Flavour with meat marsala and coriander powder.Dry roast chicken with the masada.Add water, allow it to simmer and serve!",
+                "ratings": "5",
+                "ingredients": {
+                    "one": "chicken",
+                    "two": "Onion",
+                    "three": "Ginger",
+                    "four": "Vegetable Oil",
+                    "five": "Chili Pepper",
+                    "six": "Tomatoes"
+                }
+            }
+        },
+        "likes": "989k",
+        "bio": "Love of traditions. It’s what has gone into every planning aspect of The Gregory, including our world-class menu. Featuring southern favorites and truly inspired dishes, our menu is designed to please and tempt every palate. You can refresh your spirit thanks to our designer spaces and reignite your passion for culinary masterpieces with every brunch, lunch, dinner or private event."
+    },
+    {
+        "id": 2,
+        "chefImg": "https://img.freepik.com/free-vector/pizza-maker-concept-illustration_114360-3035.jpg?w=740&t=st=1683185722~exp=1683186322~hmac=5ff25b783c880e82849c03f5f023cee20dea47c4fc9cdecf4c3c26e80f0d1bd4",
+        "name": "Likhon Adnan",
+        "experience": "15+ Years",
+        "recipe": {
+            "first": {
+                "name": "Biryani",
+                "img": "https://img.freepik.com/free-psd/delicious-asian-food-social-media-template_505751-2963.jpg?w=740&t=st=1683186315~exp=1683186915~hmac=760fdb2c233fdbe11d314ccaaad7a13cbbb9cc9d4b7c10923011b4af56945b19",
+                "method": "Simply put, biryani is a spiced mix of meat and rice, traditionally cooked over an open fire in a leather pot. It is combined in different ways with a variety of components to create a number of highly tasty and unique flavor combinations.",
+                "ratings": "5",
+                "ingredients": {
+                    "one": "Meat",
+                    "two": "Rice",
+                    "three": "Onion",
+                    "four": "Chili Pepper",
+                    "five": "Yogurt",
+                    "six": "Salt"
+                }
+            },
+            "second": {
+                "name": "Fried Rice",
+                "img": "https://img.freepik.com/premium-psd/food-promotion-social-media-post-instagram-template_572799-758.jpg?w=826",
+                "method": "Season the eggs. Whisk them with a bit of sesame oil, amino and salt.Cook the veggies! Stir-fry the carrots.Cook the eggs Heat a little vegetable oil and sesame oil, then fry the rice by spreading it in a solid",
+                "ratings": "5",
+                "ingredients": {
+                    "one": "Steamed Rice",
+                    "two": "Egg",
+                    "three": "Onion",
+                    "four": "Vegetable",
+                    "five": "Chili Pepper",
+                    "six": "Butter"
+                }
+            },
+            "third": {
+                "name": "Chicken Curry",
+                "img": "https://img.freepik.com/free-psd/square-post-template-japanese-restaurant_23-2148203266.jpg?w=826&t=st=1698739586~exp=1698740186~hmac=9a94435af04ea0a158b67d4391520d1437fd83ab756b32f1dec04965c49f115f",
+                "method": "Marinate the chicken.Grind the two pastes separately.Toast the whole spices, and then add the ground pastes.Flavour with meat marsala and coriander powder.Dry roast chicken with the masada.Add water, allow it to simmer and serve!",
+                "ratings": "5",
+                "ingredients": {
+                    "one": "chicken",
+                    "two": "Onion",
+                    "three": "Ginger",
+                    "four": "Vegetable Oil",
+                    "five": "Chili Pepper",
+                    "six": "Tomatoes"
+                }
+            }
+        },
+        "likes": "968k",
+        "bio": "Love of traditions. It’s what has gone into every planning aspect of The Gregory, including our world-class menu. Featuring southern favorites and truly inspired dishes, our menu is designed to please and tempt every palate. You can refresh your spirit thanks to our designer spaces and reignite your passion for culinary masterpieces with every brunch, lunch, dinner or private event."
+    },
+    {
+        "id": 3,
+        "chefImg": "https://img.freepik.com/premium-vector/labor-day-job-cartoon_24640-41401.jpg?w=740",
+        "name": "Ahmed Shuvo",
+        "experience": "20+ Years",
+        "recipe": {
+            "first": {
+                "name": "Biryani",
+                "img": "https://img.freepik.com/free-psd/delicious-asian-food-social-media-template_505751-2963.jpg?w=740&t=st=1683186315~exp=1683186915~hmac=760fdb2c233fdbe11d314ccaaad7a13cbbb9cc9d4b7c10923011b4af56945b19",
+                "method": "Simply put, biryani is a spiced mix of meat and rice, traditionally cooked over an open fire in a leather pot. It is combined in different ways with a variety of components to create a number of highly tasty and unique flavor combinations.",
+                "ratings": "5",
+                "ingredients": {
+                    "one": "Meat",
+                    "two": "Rice",
+                    "three": "Onion",
+                    "four": "Chili Pepper",
+                    "five": "Yogurt",
+                    "six": "Salt"
+                }
+            },
+            "second": {
+                "name": "Fried Rice",
+                "img": "https://img.freepik.com/premium-psd/food-promotion-social-media-post-instagram-template_572799-758.jpg?w=826",
+                "method": "Season the eggs. Whisk them with a bit of sesame oil, amino and salt.Cook the veggies! Stir-fry the carrots.Cook the eggs Heat a little vegetable oil and sesame oil, then fry the rice by spreading it in a solid",
+                "ratings": "5",
+                "ingredients": {
+                    "one": "Steamed Rice",
+                    "two": "Egg",
+                    "three": "Onion",
+                    "four": "Vegetable",
+                    "five": "Chili Pepper",
+                    "six": "Butter"
+                }
+            },
+            "third": {
+                "name": "Chicken Curry",
+                "img": "https://img.freepik.com/free-psd/square-post-template-japanese-restaurant_23-2148203266.jpg?w=826&t=st=1698739586~exp=1698740186~hmac=9a94435af04ea0a158b67d4391520d1437fd83ab756b32f1dec04965c49f115f",
+                "method": "Marinate the chicken.Grind the two pastes separately.Toast the whole spices, and then add the ground pastes.Flavour with meat marsala and coriander powder.Dry roast chicken with the masada.Add water, allow it to simmer and serve!",
+                "ratings": "5",
+                "ingredients": {
+                    "one": "chicken",
+                    "two": "Onion",
+                    "three": "Ginger",
+                    "four": "Vegetable Oil",
+                    "five": "Chili Pepper",
+                    "six": "Tomatoes"
+                }
+            }
+        },
+        "likes": "957k",
+        "bio": "Love of traditions. It’s what has gone into every planning aspect of The Gregory, including our world-class menu. Featuring southern favorites and truly inspired dishes, our menu is designed to please and tempt every palate. You can refresh your spirit thanks to our designer spaces and reignite your passion for culinary masterpieces with every brunch, lunch, dinner or private event."
+    },
+    {
+        "id": 4,
+        "chefImg": "https://img.freepik.com/free-vector/detailed-chef-logo-template_23-2148986823.jpg?w=740&t=st=1682960118~exp=1682960718~hmac=2c91cece165a85f4eb4844a34c56f39a55b377cba7246a2efe5a93efd9d41335",
+        "name": "Mohammed khan",
+        "experience": "25+ Years",
+        "recipe": {
+            "first": {
+                "name": "Biryani",
+                "img": "https://img.freepik.com/free-psd/delicious-asian-food-social-media-template_505751-2963.jpg?w=740&t=st=1683186315~exp=1683186915~hmac=760fdb2c233fdbe11d314ccaaad7a13cbbb9cc9d4b7c10923011b4af56945b19",
+                "method": "Simply put, biryani is a spiced mix of meat and rice, traditionally cooked over an open fire in a leather pot. It is combined in different ways with a variety of components to create a number of highly tasty and unique flavor combinations.",
+                "ratings": "5",
+                "ingredients": {
+                    "one": "Meat",
+                    "two": "Rice",
+                    "three": "Onion",
+                    "four": "Chili Pepper",
+                    "five": "Yogurt",
+                    "six": "Salt"
+                }
+            },
+            "second": {
+                "name": "Fried Rice",
+                "img": "https://img.freepik.com/premium-psd/food-promotion-social-media-post-instagram-template_572799-758.jpg?w=826",
+                "method": "Season the eggs. Whisk them with a bit of sesame oil, amino and salt.Cook the veggies! Stir-fry the carrots.Cook the eggs Heat a little vegetable oil and sesame oil, then fry the rice by spreading it in a solid",
+                "ratings": "5",
+                "ingredients": {
+                    "one": "Steamed Rice",
+                    "two": "Egg",
+                    "three": "Onion",
+                    "four": "Vegetable",
+                    "five": "Chili Pepper",
+                    "six": "Butter"
+                }
+            },
+            "third": {
+                "name": "Chicken Curry",
+                "img": "https://img.freepik.com/free-psd/square-post-template-japanese-restaurant_23-2148203266.jpg?w=826&t=st=1698739586~exp=1698740186~hmac=9a94435af04ea0a158b67d4391520d1437fd83ab756b32f1dec04965c49f115f",
+                "method": "Marinate the chicken.Grind the two pastes separately.Toast the whole spices, and then add the ground pastes.Flavour with meat marsala and coriander powder.Dry roast chicken with the masada.Add water, allow it to simmer and serve!",
+                "ratings": "5",
+                "ingredients": {
+                    "one": "chicken",
+                    "two": "Onion",
+                    "three": "Ginger",
+                    "four": "Vegetable Oil",
+                    "five": "Chili Pepper",
+                    "six": "Tomatoes"
+                }
+            }
+        },
+        "likes": "960k",
+        "bio": "Love of traditions. It’s what has gone into every planning aspect of The Gregory, including our world-class menu. Featuring southern favorites and truly inspired dishes, our menu is designed to please and tempt every palate. You can refresh your spirit thanks to our designer spaces and reignite your passion for culinary masterpieces with every brunch, lunch, dinner or private event."
+    },
+    {
+        "id": 5,
+        "chefImg": "https://img.freepik.com/premium-vector/handsome-chef-is-cooking-burgers_188398-130.jpg?w=740",
+        "name": "Asif Ahmed",
+        "experience": "22+ Years",
+        "recipe": {
+            "first": {
+                "name": "Biryani",
+                "img": "https://img.freepik.com/free-psd/delicious-asian-food-social-media-template_505751-2963.jpg?w=740&t=st=1683186315~exp=1683186915~hmac=760fdb2c233fdbe11d314ccaaad7a13cbbb9cc9d4b7c10923011b4af56945b19",
+                "method": "Simply put, biryani is a spiced mix of meat and rice, traditionally cooked over an open fire in a leather pot. It is combined in different ways with a variety of components to create a number of highly tasty and unique flavor combinations.",
+                "ratings": "5",
+                "ingredients": {
+                    "one": "Meat",
+                    "two": "Rice",
+                    "three": "Onion",
+                    "four": "Chili Pepper",
+                    "five": "Yogurt",
+                    "six": "Salt"
+                }
+            },
+            "second": {
+                "name": "Fried Rice",
+                "img": "https://img.freepik.com/premium-psd/food-promotion-social-media-post-instagram-template_572799-758.jpg?w=826",
+                "method": "Season the eggs. Whisk them with a bit of sesame oil, amino and salt.Cook the veggies! Stir-fry the carrots.Cook the eggs Heat a little vegetable oil and sesame oil, then fry the rice by spreading it in a solid",
+                "ratings": "5",
+                "ingredients": {
+                    "one": "Steamed Rice",
+                    "two": "Egg",
+                    "three": "Onion",
+                    "four": "Vegetable",
+                    "five": "Chili Pepper",
+                    "six": "Butter"
+                }
+            },
+            "third": {
+                "name": "Chicken Curry",
+                "img": "https://img.freepik.com/free-psd/square-post-template-japanese-restaurant_23-2148203266.jpg?w=826&t=st=1698739586~exp=1698740186~hmac=9a94435af04ea0a158b67d4391520d1437fd83ab756b32f1dec04965c49f115f",
+                "method": "Marinate the chicken.Grind the two pastes separately.Toast the whole spices, and then add the ground pastes.Flavour with meat marsala and coriander powder.Dry roast chicken with the masada.Add water, allow it to simmer and serve!",
+                "ratings": "5",
+                "ingredients": {
+                    "one": "chicken",
+                    "two": "Onion",
+                    "three": "Ginger",
+                    "four": "Vegetable Oil",
+                    "five": "Chili Pepper",
+                    "six": "Tomatoes"
+                }
+            }
+        },
+        "likes": "930k",
+        "bio": "Love of traditions. It’s what has gone into every planning aspect of The Gregory, including our world-class menu. Featuring southern favorites and truly inspired dishes, our menu is designed to please and tempt every palate. You can refresh your spirit thanks to our designer spaces and reignite your passion for culinary masterpieces with every brunch, lunch, dinner or private event."
+    },
+    {
+        "id": 6,
+        "chefImg": "https://img.freepik.com/free-vector/female-chef-concept-illustration_114360-15290.jpg?w=740&t=st=1683186039~exp=1683186639~hmac=e96c55cb873715950f1469fb33cc3f329faa85da5aaee4929e0619b50c22683e",
+        "name": "Alifa Choudhury",
+        "experience": "5+ Years",
+        "recipe": {
+            "first": {
+                "name": "Biryani",
+                "img": "https://img.freepik.com/free-psd/delicious-asian-food-social-media-template_505751-2963.jpg?w=740&t=st=1683186315~exp=1683186915~hmac=760fdb2c233fdbe11d314ccaaad7a13cbbb9cc9d4b7c10923011b4af56945b19",
+                "method": "Simply put, biryani is a spiced mix of meat and rice, traditionally cooked over an open fire in a leather pot. It is combined in different ways with a variety of components to create a number of highly tasty and unique flavor combinations.",
+                "ratings": "5",
+                "ingredients": {
+                    "one": "Meat",
+                    "two": "Rice",
+                    "three": "Onion",
+                    "four": "Chili Pepper",
+                    "five": "Yogurt",
+                    "six": "Salt"
+                }
+            },
+            "second": {
+                "name": "Fried Rice",
+                "img": "https://img.freepik.com/premium-psd/food-promotion-social-media-post-instagram-template_572799-758.jpg?w=826",
+                "method": "Season the eggs. Whisk them with a bit of sesame oil, amino and salt.Cook the veggies! Stir-fry the carrots.Cook the eggs Heat a little vegetable oil and sesame oil, then fry the rice by spreading it in a solid",
+                "ratings": "5",
+                "ingredients": {
+                    "one": "Steamed Rice",
+                    "two": "Egg",
+                    "three": "Onion",
+                    "four": "Vegetable",
+                    "five": "Chili Pepper",
+                    "six": "Butter"
+                }
+            },
+            "third": {
+                "name": "Chicken Curry",
+                "img": "https://img.freepik.com/free-psd/square-post-template-japanese-restaurant_23-2148203266.jpg?w=826&t=st=1698739586~exp=1698740186~hmac=9a94435af04ea0a158b67d4391520d1437fd83ab756b32f1dec04965c49f115f",
+                "method": "Marinate the chicken.Grind the two pastes separately.Toast the whole spices, and then add the ground pastes.Flavour with meat marsala and coriander powder.Dry roast chicken with the masada.Add water, allow it to simmer and serve!",
+                "ratings": "5",
+                "ingredients": {
+                    "one": "chicken",
+                    "two": "Onion",
+                    "three": "Ginger",
+                    "four": "Vegetable Oil",
+                    "five": "Chili Pepper",
+                    "six": "Tomatoes"
+                }
+            }
+        },
+        "likes": "990k",
+        "bio": "Love of traditions. It’s what has gone into every planning aspect of The Gregory, including our world-class menu. Featuring southern favorites and truly inspired dishes, our menu is designed to please and tempt every palate. You can refresh your spirit thanks to our designer spaces and reignite your passion for culinary masterpieces with every brunch, lunch, dinner or private event."
+    }
+]
