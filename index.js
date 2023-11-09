@@ -2,11 +2,29 @@ const express = require('express');
 const cors = require('cors');
 require('dotenv').config();
 const app = express();
+const cookieParser = require('cookie-parser');
 const port = process.env.PORT || 5000;
 
 // use middleware
-app.use(cors());
+// app.use(cors());
 app.use(express.json());
+// 'https://chef-zone-client.web.app'
+app.use(cors({
+    origin: [
+        'http://localhost:5173',
+        // 'https://cars-doctor-6c129.web.app',
+        // 'https://cars-doctor-6c129.firebaseapp.com'
+    ],
+    credentials: true
+}));
+app.use(cookieParser());
+
+
+// app.use(cors({
+//     origin: [
+//         "https://chef-zone-client.web.app/"
+//     ],
+// }));
 
 
 //mongodb start 
@@ -25,7 +43,7 @@ const client = new MongoClient(uri, {
 async function run() {
     try {
         // Connect the client to the server	(optional starting in v4.7)
-        await client.connect();
+        // await client.connect();
 
         // get the database
         const chefCollection = client.db('chefZoneDatabase').collection('chefCollection');
@@ -43,7 +61,6 @@ async function run() {
             const result = await chefCollection.findOne(query);
             res.send(result);
         });
-
 
 
         // Send a ping to confirm a successful connection
