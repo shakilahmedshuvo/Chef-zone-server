@@ -1,14 +1,10 @@
 const express = require('express');
 const cors = require('cors');
-require('dotenv').config();
+require('dotenv').config()
 const app = express();
-const cookieParser = require('cookie-parser');
 const port = process.env.PORT || 5000;
 
-// use middleware
-// app.use(cors());
-app.use(express.json());
-// 'https://chef-zone-client.web.app'
+// middleware
 app.use(cors({
     origin: [
         'http://localhost:5173',
@@ -17,14 +13,7 @@ app.use(cors({
     ],
     credentials: true
 }));
-app.use(cookieParser());
-
-
-// app.use(cors({
-//     origin: [
-//         "https://chef-zone-client.web.app/"
-//     ],
-// }));
+app.use(express.json());
 
 
 //mongodb start 
@@ -40,10 +29,16 @@ const client = new MongoClient(uri, {
     }
 });
 
+// middlewares 
+const logger = (req, res, next) => {
+    console.log('log: info', req.method, req.url);
+    next();
+}
+
 async function run() {
     try {
         // Connect the client to the server	(optional starting in v4.7)
-        // await client.connect();
+        await client.connect();
 
         // get the database
         const chefCollection = client.db('chefZoneDatabase').collection('chefCollection');
@@ -73,7 +68,6 @@ async function run() {
 }
 run().catch(console.dir);
 //mongodb end 
-
 
 
 app.get('/', (req, res) => {
