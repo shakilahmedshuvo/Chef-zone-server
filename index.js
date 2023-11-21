@@ -53,7 +53,13 @@ async function run() {
         // get api for chef data by id
         app.get('/chefCollection/:id', async (req, res) => {
             const id = req.params.id;
-            const query = { _id: new ObjectId(id) };
+            console.log(id);
+            // const query = { _id: new ObjectId(id) };
+            // const query = { id: id };
+            const query = {};
+            if (req.params.id) {
+                query._id = new ObjectId(req.params.id)
+            }
             const result = await chefCollection.findOne(query);
             res.send(result);
         });
