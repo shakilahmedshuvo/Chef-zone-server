@@ -5,14 +5,15 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 // middleware
-app.use(cors({
-    origin: [
-        'http://localhost:5173',
-        // 'https://cars-doctor-6c129.web.app',
-        // 'https://cars-doctor-6c129.firebaseapp.com'
-    ],
-    credentials: true
-}));
+// app.use(cors({
+//     origin: [
+//         'http://localhost:5173',
+//         // 'https://cars-doctor-6c129.web.app',
+//         // 'https://cars-doctor-6c129.firebaseapp.com'
+//     ],
+//     credentials: true
+// }));
+app.use(cors());
 app.use(express.json());
 
 
@@ -30,10 +31,10 @@ const client = new MongoClient(uri, {
 });
 
 // middlewares 
-const logger = (req, res, next) => {
-    console.log('log: info', req.method, req.url);
-    next();
-}
+// const logger = (req, res, next) => {
+//     console.log('log: info', req.method, req.url);
+//     next();
+// }
 
 async function run() {
     try {
